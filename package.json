@@ -24,7 +24,7 @@
     "@octokit/plugin-rest-endpoint-methods": "^5.15.0"
   },
   "devDependencies": {
-    "@types/lodash": "^4.14.182",
+    "@types/lodash": "^4.14.184",
     "@vercel/ncc": "0.34.0",
     "@shopify/prettier-config": "^1.1.2",
     "@shopify/eslint-plugin": "~40",
